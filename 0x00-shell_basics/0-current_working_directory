@@ -1,5 +1,3 @@
 #!/bin/bash
 
-#Program to print my current working directory
-
 pwd
