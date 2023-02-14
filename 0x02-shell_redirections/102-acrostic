@@ -1,0 +1,2 @@
+#!/bin/bash
+acrostic=$(sed -n 's/^\(.\).*/\1/p' "$1")
